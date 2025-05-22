@@ -49,11 +49,3 @@ src/
   ├── assets/        # Static assets
   └── App.tsx        # Main application component
 ```
-
-## Contributing
-
-Feel free to submit issues and pull requests.
-
-## License
-
-MIT
